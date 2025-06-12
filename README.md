@@ -1,0 +1,1 @@
+# api-disparidade-salarial
