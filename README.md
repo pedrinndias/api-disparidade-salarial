@@ -29,13 +29,13 @@ O projeto é a implementação em produção do modelo desenvolvido no trabalho 
     ```bash
     docker run -p 5000:5000 api-salarial
     ```
-    A API estará disponível em `http://localhost:5000`.  ⚠️ 
+    A API estará disponível em `http://localhost:5000`.  Essa URL é o endereço local no seu próprio computador onde a sua API se torna acessível depois que você executa o contêiner Docker. 
 
 ---
 
 ## Endpoints da API
 
-### Health Check ⚠️ 
+### Health Check  
 
 Verifica se a API está em funcionamento.
 
@@ -48,7 +48,7 @@ Verifica se a API está em funcionamento.
     }
     ```
 
-### Predição Salarial ⚠️ 
+### Predição Salarial ⚠️= 
 
 Realiza a predição da faixa salarial.
 
