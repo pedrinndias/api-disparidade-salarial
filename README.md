@@ -48,7 +48,7 @@ Verifica se a API está em funcionamento.
     }
     ```
 
-### Predição Salarial ⚠️= 
+### Predição Salarial= 
 
 Realiza a predição da faixa salarial.
 
