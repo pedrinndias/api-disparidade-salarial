@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Arquivos de dados locais (para não subir dados brutos ao repo)
+*.csv
+*.xls
+*.xlsx
+
+# Arquivos de ambiente
+.env
+
+# Cache de testes
+.pytest_cache/
