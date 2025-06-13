@@ -1,7 +1,23 @@
-pandas==2.2.0
-scikit-learn==1.4.2
-joblib==1.4.2
-Flask==3.0.3
-gunicorn==22.0.0
-pytest==8.2.2  # Para testes
-requests==2.32.3 # Para testes
+# Data Manipulation and Numerical Analysis
+pandas
+numpy
+scipy
+
+# Machine Learning and Modeling
+scikit-learn
+lightgbm
+optuna
+ray[tune]
+hyperopt
+tensorflow
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Utility and Environment
+jupyter
+jupyterlab
+joblib
+openpyxl
